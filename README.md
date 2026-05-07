@@ -1,6 +1,6 @@
-# 📊 Sales Analytics Dashboard — Sample Superstore
+# 📊 Sales Analytics  and Customer Churn Dashboard
 
-> An end-to-end Excel analytics project built on the Sample Superstore dataset, covering customer segmentation, RFM analysis, churn tracking, profitability deep-dives, and fulfilment performance — all surfaced through a multi-page interactive dashboard.
+> An end-to-end Excel analytics project built on the Sample Superstore dataset, covering customer segmentation, churn tracking, and profitability through a multi-page interactive dashboard.
 
 ---
 
@@ -56,18 +56,6 @@
 
 ---
 
-### 🔻 The Discount Problem
-
-| Cohort | Avg Profit per Line |
-|---|---|
-| No discount | **$66.90** |
-| Discount applied | **-$6.66** |
-
-- Over **5,196 out of 9,994 order lines (52%)** carried a discount.
-- Discounted orders are on average **loss-making**. This is the single biggest profitability lever in the dataset.
-- Heavy discounting on already low-margin categories (Furniture, Binders, Machines) is destroying value.
-
----
 
 ### 👥 Customer Analytics
 
@@ -116,11 +104,9 @@
 
 ## 💡 Business Recommendations
 
-1. **Audit the discount strategy** — over half of all transactions are discounted and unprofitable on average. A tiered discount cap policy would meaningfully improve margins.
-2. **Investigate Furniture sub-categories** — Tables and Bookcases are consistently loss-making. Either reprice, renegotiate supplier costs, or deprioritise heavy-discount Furniture SKUs.
-3. **Re-engage hibernating customers** — 239 customers who have gone quiet are a warm audience. Targeted outreach with personalised offers based on their historical purchase category is a low-cost growth lever.
-4. **Double down on Technology** — highest margin category with consistent growth. Copiers and Phones should be the focus of upsell and cross-sell activity.
-5. **Leverage Q4 seasonality** — the data clearly shows Q4 outperformance. Marketing and inventory investment should be front-loaded into Q3 to capitalise on this.
+1. **Re-engage hibernating customers** — 239 customers who have gone quiet are a warm audience. Targeted outreach with personalised offers based on their historical purchase category is a low-cost growth lever.
+
+2. **Leverage Q4 seasonality** — the data clearly shows Q4 outperformance. Marketing and inventory investment should be front-loaded into Q3 to capitalise on this.
 
 ---
 
