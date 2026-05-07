@@ -121,5 +121,3 @@
 ## 👤 Author
 
 **Aashish** — MEng Computer Systems Engineering  
-Data Analyst Portfolio Project  
-[GitHub Profile](https://github.com/)
